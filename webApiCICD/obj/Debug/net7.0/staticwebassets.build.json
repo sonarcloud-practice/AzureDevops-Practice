@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pKCKvF5p/daF6v+//NPWMjCdRcd0VkRDrjHPWcu6cVc=",
+  "Source": "webApiCICD",
+  "BasePath": "_content/webApiCICD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
